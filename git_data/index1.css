@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+   }
+   nav {
+    height: 100px;
+    & h2 {
+    text-align: center;
+    font-size: 40px;
+    background-color: white;
+    }
+   }
+   .btn {
+    text-align: center;
+    display: block;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    border: none;
+    text-color: white;
+    background-color: #1a1d20;
+   }
+   .btn1{
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: #0b5ed7;
+   }
+   .btn2{
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: #6f42c1;
+   }
+   .btn3{
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+    border: none;background-color: green;
+   }
+   .btn4{
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: red;
+   }
+   .btn5{
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: #997404;
+   }
+   .btn6{
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: greenyellow;
+   }
+   .btn7{
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: #75b798;
+   }
+   .btn8{
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: #e21e80;
+   }
+   .btn9{
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: #084298;
+   }
+   .btn10{
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: cyan;
+   }
+   form{
+    width: 700px;
+    height: 400px;
+    align-items: center;
+   }
+   table{
+    width: 100px 100px;
+    height: 30px;
+    color: #75b798 !important;
+   }
+   .th{
+    background: #0f5132;
+   }
+   table2{
+    : #6f42c1 !important;
+   }
+   .table3{
+    color: #0dcaf0 !important;
+   }
+   .table4{
+    color: #6c757d !important;
+   }
+   .table5{
+    color: #75b798 !important;
+   }
+   .div1{
+    text-align: center;
+    color: #0dcaf0;
+   }
