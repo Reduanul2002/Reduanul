@@ -1,0 +1,39 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+nav{
+   color: aqua; 
+}
+body{
+    background-color: aqua;
+}
+h1{
+    color: green;
+}
+h6{
+    color: rgb(243, 103, 10);
+    background-color: rgb(119, 238, 228);
+    padding: 5px;
+    border-radius: 10px;
+}
+.b1{
+    color: rgb(28, 4, 236);
+}
+.div1{
+    align-items: center;
+    padding: 8px;
+}
+.h1{
+  
+    color: red;
+}
+.b2{
+    color: green;
+}
+h2{
+    color: rgba(0, 17, 255, 0.822);
+}
+p{
+    color: rgb(0, 240, 40);
+}
